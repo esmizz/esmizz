@@ -1,5 +1,7 @@
-# Hi 👋, I'm Esmael
- A passionate Front-End developer from Ethiopia<br><br><br>💫 About Me:<br><br>
+<h1 align="center">Hi 👋, I'm Esmael</h1>
+<h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
+
+#💫 About Me:
  🌱 I’m currently learning Computer Science<br>🛠 Love solving problems<br>📚 Always learning<br>⚡️Fun fact Turning lines of code into poetry. Crafting digital verses that compile into masterpieces.📜✨
 
 
