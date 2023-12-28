@@ -1,5 +1,5 @@
 # Hi 👋, I'm Esmael
-# A passionate Front-End developer from Ethiopia<br><br>💫 About Me:<br><br>🌱 I’m currently learning Computer Science<br>🛠 Love solving problems<br>📚 Always learning<br>⚡️Fun fact Turning lines of code into poetry. Crafting digital verses that compile into masterpieces.📜✨
+ A passionate Front-End developer from Ethiopia<br><br> #💫 About Me:<br><br>🌱 I’m currently learning Computer Science<br>🛠 Love solving problems<br>📚 Always learning<br>⚡️Fun fact Turning lines of code into poetry. Crafting digital verses that compile into masterpieces.📜✨
 
 
 ## 🌐 Socials:
