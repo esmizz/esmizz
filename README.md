@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Computer Science<br>🛠 Love solving problems<br>📚 Always learning<br>⚡ Fun fact Turning lines of code into poetry. Crafting digital verses that compile into masterpieces.📜✨
+🌱 I’m currently learning Computer Science<br>🛠 Love solving problems<br>📚 Always learning<br>
 
 
 ## 🌐 Socials:
